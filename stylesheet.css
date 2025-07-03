@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Semilight'), local('BrandingSemilight'),
+        url('subset-BrandingSemilight.woff2') format('woff2'),
+        url('subset-BrandingSemilight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Light'), local('BrandingLight'),
+        url('subset-BrandingLight.woff2') format('woff2'),
+        url('subset-BrandingLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Semibold'), local('BrandingSemibold'),
+        url('subset-BrandingSemibold.woff2') format('woff2'),
+        url('subset-BrandingSemibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Light Italic'), local('BrandingLightItalic'),
+        url('subset-BrandingLightItalic.woff2') format('woff2'),
+        url('subset-BrandingLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Bold Italic'), local('BrandingBoldItalic'),
+        url('subset-BrandingBoldItalic.woff2') format('woff2'),
+        url('subset-BrandingBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Medium'), local('BrandingMedium'),
+        url('subset-BrandingMedium.woff2') format('woff2'),
+        url('subset-BrandingMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Bold'), local('BrandingBold'),
+        url('subset-BrandingBold.woff2') format('woff2'),
+        url('subset-BrandingBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Black'), local('BrandingBlack'),
+        url('subset-BrandingBlack.woff2') format('woff2'),
+        url('subset-BrandingBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Black Italic'), local('BrandingBlackItalic'),
+        url('subset-BrandingBlackItalic.woff2') format('woff2'),
+        url('subset-BrandingBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Semilight Italic'), local('BrandingSemilightItalic'),
+        url('subset-BrandingSemilightItalic.woff2') format('woff2'),
+        url('subset-BrandingSemilightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Thin Italic'), local('BrandingThinItalic'),
+        url('subset-BrandingThinItalic.woff2') format('woff2'),
+        url('subset-BrandingThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Semibold Italic'), local('BrandingSemiboldItalic'),
+        url('subset-BrandingSemiboldItalic.woff2') format('woff2'),
+        url('subset-BrandingSemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Medium Italic'), local('BrandingMediumItalic'),
+        url('subset-BrandingMediumItalic.woff2') format('woff2'),
+        url('subset-BrandingMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Thin'), local('BrandingThin'),
+        url('subset-BrandingThin.woff2') format('woff2'),
+        url('subset-BrandingThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
